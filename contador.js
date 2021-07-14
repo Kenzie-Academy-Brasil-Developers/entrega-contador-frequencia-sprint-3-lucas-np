@@ -62,4 +62,4 @@ let letterCounts = {};
       words.appendChild(span);
     }
 });
-//quantas vezes cada letra e espaço apareceram!!! retirar minhas anotações.
+//quantas vezes cada letra e espaço apareceram!!! retirar anotações para deixar código limpo(antes do envio).
